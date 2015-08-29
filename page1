@@ -1,0 +1,167 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>日本</title>
+<style type="text/css">
+<!--
+body {
+	font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
+	background-color: #FFFFCC;
+	margin: 0;
+	padding: 0;
+	color: #000;
+	background-image: url(http://i.imgur.com/H7zR7Yx.jpg);
+	border-top-color: #CCC;
+	border-right-color: #CCC;
+	border-bottom-color: #CCC;
+	border-left-color: #CCC;
+	background-repeat: repeat;
+}
+
+/* ~~ Element/tag selectors ~~ */
+ul, ol, dl { /* Due to variations between browsers, it's best practices to zero padding and margin on lists. For consistency, you can either specify the amounts you want here, or on the list items (LI, DT, DD) they contain. Remember that what you do here will cascade to the .nav list unless you write a more specific selector. */
+	padding: 0;
+	margin: 0;
+}
+h1, h2, h3, h4, h5, h6, p {
+	margin-top: 0;	 /* removing the top margin gets around an issue where margins can escape from their containing div. The remaining bottom margin will hold it away from any elements that follow. */
+	padding-right: 15px;
+	padding-left: 15px; /* adding the padding to the sides of the elements within the divs, instead of the divs themselves, gets rid of any box model math. A nested div with side padding can also be used as an alternate method. */
+}
+a img { /* this selector removes the default blue border displayed in some browsers around an image when it is surrounded by a link */
+	border: none;
+}
+/* ~~ Styling for your site's links must remain in this order - including the group of selectors that create the hover effect. ~~ */
+a:link {
+	color: #42413C;
+	text-decoration: underline; /* unless you style your links to look extremely unique, it's best to provide underlines for quick visual identification */
+}
+a:visited {
+	color: #6E6C64;
+	text-decoration: underline;
+}
+a:hover, a:active, a:focus { /* this group of selectors will give a keyboard navigator the same hover experience as the person using a mouse. */
+	text-decoration: none;
+}
+
+/* ~~ this fixed width container surrounds the other divs ~~ */
+.container {
+	width: 960px;
+	background-color: #FFF;
+	margin: 0 auto; /* the auto value on the sides, coupled with the width, centers the layout */
+}
+
+/* ~~ the header is not given a width. It will extend the full width of your layout. It contains an image placeholder that should be replaced with your own linked logo ~~ */
+.header {
+	background-color: #FFFFFF;
+}
+
+/* ~~ This is the layout information. ~~ 
+
+1) Padding is only placed on the top and/or bottom of the div. The elements within this div have padding on their sides. This saves you from any "box model math". Keep in mind, if you add any side padding or border to the div itself, it will be added to the width you define to create the *total* width. You may also choose to remove the padding on the element in the div and place a second div within it with no width and the padding necessary for your design.
+
+*/
+
+.content {
+
+	padding: 10px 0;
+}
+
+/* ~~ The footer ~~ */
+.footer {
+	padding: 10px 0;
+	background-color: #F5F5F5;
+}
+
+/* ~~ miscellaneous float/clear classes ~~ */
+.fltrt {  /* this class can be used to float an element right in your page. The floated element must precede the element it should be next to on the page. */
+	float: right;
+	margin-left: 8px;
+}
+.fltlft { /* this class can be used to float an element left in your page. The floated element must precede the element it should be next to on the page. */
+	float: left;
+	margin-right: 8px;
+}
+.clearfloat { /* this class can be placed on a <br /> or empty div as the final element following the last floated div (within the #container) if the #footer is removed or taken out of the #container */
+	clear:both;
+	height:0;
+	font-size: 1px;
+	line-height: 0px;
+}
+h1 {
+	color: #000000;
+	background-color: #F5F5F5;
+}
+.style1 {color: #000000}
+.style2 {
+	color: #F5F5F5;
+	font-size: 2%;
+}
+.style4 {
+	font-size: 90%;
+	color: #0099FF;
+}
+.style6 {
+	color: #FF99CC;
+	font-size: 100%;
+}
+.style8 {
+	font-size: 90%;
+	color: #0099FC;
+}
+.style9 {color: #0099FC; }
+.style10 {color: #F5F5F5}
+-->
+</style></head>
+
+<body>
+<body bgcolor="#F5FFFA">
+
+<div class="container">
+  <div class="header"><a href="#"><a href="#"><a href="#"></a><a href="#"><a href="#"></a><a href="#"></a><a href="#"><a href="#"></a><a href="#"></a><a href="#"></a><a href="#"><a href="#"></a><a href="#"></a><a href="#"></a><a href="#"></a><a href="#"><a href="#"></a><a href="#"></a><a href="#"></a><a href="#"></a><a href="#"></a><a href="#" class="header"><img src="http://i.imgur.com/Kb46zOX.png" alt="Insert Logo Here" name="Insert_logo" width="960" height="187" class="header" id="Insert_logo" style="display: block;" /></a><!-- end .header --></div>
+  <div class="content">
+<h1>
+<center>
+  <span class="style6"><font face="Angsana New "><font size="7">ประวัติความเป็นมาของประเทศญี่ปุ่น</font></font></span>
+</center>
+<center>
+<font size="1"><font color="#F5F5F5">0</font></font></center>
+<center>
+ <table width="752" height="386" border="0" cellpadding="0" cellspacing="7" style="width: 730px; height: ความสูงpx">
+ <tbody><tr style="text-align: left">
+   <td width="738" valign="top"><font color="#402418"><font color="#000000">
+     <p align="center"><font face="Angsana New"><font size="5">ญี่ปุ่นเป็นประเทศที่มีประวัติความเป็นมายาวนานมาก แต่ก็ไม่ปรากฏให้เห็นชัดเจนว่าคนที่อาศัยอยู่ในประเทศญี่ปุ่นกลุ่มแรกคือชนชาติใด แต่ที่เล่าสืบต่อกันมาว่ากันว่าเป็นชาวไซบีเรีย ชาวเกาหลี หรืออาจจะเป็นชาวจีนที่อพยพลงมาอยู่ แผ่นดินของแต่ละเมืองจะติดต่อกันเป็นผืนเดียวจึงทำให้ไม่สามารถหาคำตอบแน่ชัดว่าเป็นชนชาติใด แต่หลักฐานที่บ่งบอกของอารยธรรมของญี่ปุ่น พบในยุคหินใหม่ราวหมื่นปีก่อนคริสตกาล ปัจจุบันคนพื้นเมืองที่ยังเหลืออยู่คือชนเผ่าไอนุ (Ainu) ญี่ปุ่นยังแบ่งเป็นยุคต่าง ๆ อีก 3 ยุคด้วยกัน</font></font></p>
+     <p align="center" class="style2">ท</p>
+     <p align="center" class="style4"><font face="Angsana New">ยุคแรกคือยุคก่อนประวัติศาสตร์ หรือ  เรียกกันว่ายุคโบราณ</font></p>
+     <p align="center" class="style1"><font size="5" face="Angsana New">ยุคนี้ผู้คนจะขุดโพรงอาศัยอยู่กัน กินโดยการจับปลาล่าสัตว์  ไม่นานก็หันมาปลูกข้าวและเรียนรู้มาเรื่อยๆ ยุคนี้หันมานับถือศาสนาพุทธกันมากขั้น  สังเกตได้จากพระพุทธรูปองค์ใหญ่ที่ผู้คนกราบไหว้ </font></p>
+     <p align="center" class="style2">ท</p>
+     <p align="center" class="style1"><font face="Angsana New"><span class="style8">ยุคที่สองคือยุคกลาง </span></font></p>
+     <p align="center" class="style1"><font size="5" face="Angsana New">การปกครองขึ้นอยู่กับนักรบแทน  ซึ่งเรียกกันว่า “โชกุน” โชกุนสามารถดึงอำนาจทั้งหมดจากจักรพรรดิและเป็นสมัยของการเริ่มต้นระบบศักดินาอันยาวนาน  ศาสนาพุทธยังคงเผยแพร่ไปสู่ทุกชนชั้นในสังคมไม่นานก็เกิดนิกายเชน  ซึ่งนิกายนี้รับมาจากจีน  ช่วงหลังจักรพรรดิสามารถยึดคืนอำนาจได้โดยการโค่นล้มรัฐบาลโชกุน </font></p>
+     <p align="center" class="style2">ท</p>
+     <p align="center" class="style9"><font size="5" face="Angsana New">ยุคที่สามคือยุคใหม่  </font></p>
+     <p align="center" class="style1"><font size="5" face="Angsana New">สมัยนี้โชกุนและไดเมียว มีอำนาจการปกครองสิทธิขาดเสรี  ยุคนี้เริ่มติดต่อกับต่างประเทศมากขึ้นทำให้เกิดวัฒนธรรมที่หรูหรา </font></p>
+     <p align="center" class="style2">ย</p>
+     <p align="center" class="style1"><span class="style10"><img src="Image/Bjs48_02_Ainu.jpg" width="370" height="242" />ทททท</span><img src="Image/Minamoto_no_Yoritomo.jpg" width="187" height="242" /></p>
+     <center>
+     </center>
+     <p align="center"></p>     <p align="center"></p></td>
+ </tr></tbody></table>
+</center>
+</h1>
+
+    <p></p>
+    <!-- end .content --></div>
+  <div class="footer">
+    <p class="footer">&nbsp;</p>
+    <!-- end .footer --></div>
+  <!-- end .container --></div>
+</body>
+</body>
+<table style="width: 730px; height: ความสูงpx" cellspacing="7" cellpadding="0" width="730" border="0">
+ <tbody><tr style="text-align: left"><td valign="top"><font color="#402418"><font color="#000000">
+ <p align="center"></p><center></center><center></center><p align="center"></p>
+ <p align="center"></p></font></font></td><td valign="top" width="300"><dt>
+ <div align="center"></div></dt></td></tr></tbody></table>
+</html>
